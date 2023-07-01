@@ -47,10 +47,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/strongestspirit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/strongestspirit" /></a><a href="https://ko-fi.com/dyachukvitaliy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dyachukvitaliy" /></a></p>
-<br>
-<br>
+
 
 <div>
+    <br>
+    <br>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiriturban&show_icons=true&locale=en&layout=compact" alt="spiriturban" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiriturban&show_icons=true&locale=en&theme=merko&include_all_commits=true" alt="spiriturban" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiriturban&" alt="spiriturban" /></p>
