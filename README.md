@@ -50,6 +50,7 @@
 <br>
 <br>
 
+<h3 align="left">x:</h3>
 
 <div>
     <br>
@@ -57,20 +58,22 @@
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiriturban&show_icons=true&locale=en&layout=compact" alt="spiriturban" /></p>
 </div>    
 
-####
+<h3 align="left">x:</h3>
 
 <div>    
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiriturban&show_icons=true&locale=en&theme=merko&include_all_commits=true" alt="spiriturban" /></p>
 </div>    
 
-####
+<h3 align="left">x:</h3>
+
 
 <div>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiriturban&" alt="spiriturban" /></p>
 </div>
 
 
-####
+<h3 align="left">x:</h3>
+
  
 ![Snake animation](https://raw.githubusercontent.com/SpiritUrban/SpiritUrban/main/animation.svg)
 
