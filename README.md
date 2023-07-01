@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vitaliy Diachuk</h1>
 
-<p>
+<p align="center>
 <a href="https://wa.me/380967465486" target="_blank"> 
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="+380 96 746 54 86"/> 
 </a>
