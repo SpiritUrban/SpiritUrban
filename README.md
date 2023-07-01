@@ -22,10 +22,6 @@
 
 - ⚡ Fun fact **I like to run a video blog and meet and communicate with people**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
