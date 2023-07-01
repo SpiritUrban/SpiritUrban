@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spiriturban&label=Profile%20views&color=0e75b6&style=flat" alt="spiriturban" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spiriturban" alt="spiriturban" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/spirit_urban" target="blank"><img src="https://img.shields.io/twitter/follow/spirit_urban?logo=twitter&style=for-the-badge" alt="spirit_urban" /></a> </p>
 
 - 🔭 I’m currently working on [My community page "JS-Clan"](https://spiriturban.github.io/js-clan/)
