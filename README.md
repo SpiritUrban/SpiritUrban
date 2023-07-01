@@ -49,7 +49,6 @@
 <br>
 
 <div>
-    <br>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiriturban&show_icons=true&locale=en&theme=merko" alt="spiriturban" /></p>
 </div>    
 
