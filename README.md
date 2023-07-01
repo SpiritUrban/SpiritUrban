@@ -52,12 +52,10 @@
     <br>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiriturban&show_icons=true&locale=en&theme=merko" alt="spiriturban" /></p>
 </div>    
-<br>
 
 <div>    
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiriturban&show_icons=true&locale=en&theme=merko&include_all_commits=true" alt="spiriturban" /></p>
 </div>    
-<br>
 
 <div>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiriturban&theme=merko" alt="spiriturban" /></p>
