@@ -1,5 +1,24 @@
 
 <h1 align="center">Hi 👋, I'm Vitaliy Diachuk</h1>
+
+<p>
+<a href="https://wa.me/380967465486" target="_blank"> 
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="+380 96 746 54 86"/> 
+</a>
+
+ <a href="https://t.me/spiriturban" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+ </a>  
+
+<a href="https://instagram.com/spirit_urban" target="_blank">
+ <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+ 
+<a href="https://www.linkedin.com/in/vitaly-dyachuk-8ba18a54" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>  
+</p>
+
 <h3 align="center">A passionate full-stack developer, mentor from Ukraine. As of 2023, my total programming experience is 12 years, 8 years as a designer, 8 years as a web developer, 4 years as a development mentor, and I have sports experience. Constant professional and personal development is my position in life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spiriturban&label=Profile%20views&color=0e75b6&style=flat" alt="spiriturban" /> </p>
@@ -69,23 +88,7 @@
 
 
 
-<p>
-<a href="https://wa.me/5566996852025" target="_blank"> 
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="+55 66 99685-2025"/> 
-</a>
 
- <a href="https://t.me/raphaelserafim" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
- </a>  
-
-<a href="https://instagram.com/raphaelvserafim" target="_blank">
- <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
- 
-<a href="https://www.linkedin.com/in/raphaelvserafim" target="_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>  
-</p>
 
 
 
