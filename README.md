@@ -1,3 +1,4 @@
+<main>
 <h1 align="center">Hi 👋, I'm Vitaliy Diachuk</h1>
 <h3 align="center">A passionate full-stack developer, mentor from Ukraine. As of 2023, my total programming experience is 12 years, 8 years as a designer, 8 years as a web developer, 4 years as a development mentor, and I have sports experience. Constant professional and personal development is my position in life.</h3>
 
@@ -46,7 +47,10 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/strongestspirit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/strongestspirit" /></a><a href="https://ko-fi.com/dyachukvitaliy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dyachukvitaliy" /></a></p>
+<p>
+    <a href="https://www.buymeacoffee.com/https://bmc.link/strongestspirit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/strongestspirit" /></a><a href="https://ko-fi.com/dyachukvitaliy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dyachukvitaliy" /></a>
+</p>
+
 <br>
 <br>
 
@@ -78,7 +82,7 @@
 ![Snake animation](https://raw.githubusercontent.com/SpiritUrban/SpiritUrban/main/animation.svg)
 
 
-
+</main>
 
 
 
