@@ -25,7 +25,7 @@
 
 <h3 align="center">A passionate full-stack developer, mentor from Ukraine. As of 2023, my total programming experience is 12 years, 8 years as a designer, 8 years as a web developer, 4 years as a development mentor, and I have sports experience. Constant professional and personal development is my position in life.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spiriturban&label=Profile%20views&color=0e75b6&style=flat" alt="spiriturban" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=spiriturban&label=Profile%20views&color=0e75b6&style=flat" alt="spiriturban" /> </p>
 
 
 - 🔭 I’m currently working on [My community page "JS-Clan"](https://spiriturban.github.io/js-clan/)
