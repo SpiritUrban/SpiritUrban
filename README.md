@@ -50,7 +50,7 @@
 
 <div>
     <br>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiriturban&show_icons=true&locale=en&&theme=merko" alt="spiriturban" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiriturban&show_icons=true&locale=en&theme=merko" alt="spiriturban" /></p>
 </div>    
 <br>
 
@@ -60,7 +60,7 @@
 <br>
 
 <div>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiriturban&" alt="spiriturban" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiriturban&theme=merko" alt="spiriturban" /></p>
 </div>
 
 
