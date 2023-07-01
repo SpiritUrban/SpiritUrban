@@ -17,11 +17,14 @@
 <a href="https://www.linkedin.com/in/vitaly-dyachuk-8ba18a54" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>  
+
+<img src="https://komarev.com/ghpvc/?username=spiriturban&label=Profile%20views&color=0e75b6&style=flat" alt="spiriturban" />
+
 </p>
 
 <h3 align="center">A passionate full-stack developer, mentor from Ukraine. As of 2023, my total programming experience is 12 years, 8 years as a designer, 8 years as a web developer, 4 years as a development mentor, and I have sports experience. Constant professional and personal development is my position in life.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spiriturban&label=Profile%20views&color=0e75b6&style=flat" alt="spiriturban" /> </p>
+<p align="left">  </p>
 
 <p align="left"> <a href="https://twitter.com/spirit_urban" target="blank"><img src="https://img.shields.io/twitter/follow/spirit_urban?logo=twitter&style=for-the-badge" alt="spirit_urban" /></a> </p>
 
