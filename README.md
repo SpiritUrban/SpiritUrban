@@ -58,9 +58,6 @@
 <div>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiriturban&theme=merko" alt="spiriturban" /></p>
 </div>
-
-
-
  
 ![Snake animation](https://raw.githubusercontent.com/SpiritUrban/SpiritUrban/main/animation.svg)
 
@@ -69,8 +66,6 @@
 
 
 
-
-### Hi 👋
 
 
 
@@ -105,6 +100,9 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![jQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jQuery&logoColor=0769AD)
+
+  ![jQuery](https://img.shields.io/badge/pug-333333?style=flat&logo=pug&logoColor=0769AD)
+
  
 
 </div>
