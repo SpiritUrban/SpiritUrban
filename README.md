@@ -23,7 +23,7 @@
 </a>
 </p>
 
-<h3 align="center">A passionate full-stack developer, mentor from Ukraine. As of 2023, my total programming experience is 13 years, 8 years as a designer, 10 years as a web developer, 5 years as a development mentor, and I have sports experience. Constant professional and personal development is my position in life.</h3>
+<h3 align="center">A passionate full-stack developer, mentor from Ukraine. As of 2025, my total programming experience is 13 years, 8 years as a designer, 10 years as a web developer, 5 years as a development mentor, and I have sports experience. Constant professional and personal development is my position in life.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=spiriturban&label=Profile%20views&color=0e75b6&style=flat" alt="spiriturban" /> </p>
 
